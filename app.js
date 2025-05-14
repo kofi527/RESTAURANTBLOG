@@ -7,3 +7,6 @@ const PORT = process.env.PORT || 3000;
 
 // for database connection
 require('dotenv').config();
+
+app.use(expressLayouts.urlencoded({ extended: true }));
+app.use(express.static('public'));
