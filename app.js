@@ -8,12 +8,13 @@ const PORT = process.env.PORT || 3000;
 // for database connection
 require('dotenv').config();
 
-app.use(expressLayouts.urlencoded({ extended: true }));
+app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 app.use(expressLayouts);
 app.set('layout', 'layouts/main');
+app.set('view engine', 'ejs');
 
-const routes = require('./server/routes/recipeRoutes.js')
+const routes = require('./Server_1/routes_1/recipe_Routes.js')
 app.use('/', routes);
 
-app.listen(PORT, ()=> console.log(`Server is running on port ${PORT}`));
+app.listen(PORT, ()=> console.log(`Server_1 is running on port ${PORT}`));
