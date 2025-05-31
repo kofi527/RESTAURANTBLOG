@@ -5,5 +5,5 @@
  */
 
 exports.homepage = async(req, res) => {
-  res.render('layouts/index');
+  res.render('layouts/index', {    title: 'Recipe Application' });
 }
