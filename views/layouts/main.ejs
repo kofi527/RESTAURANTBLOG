@@ -27,11 +27,19 @@
            </a>
               <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
                 <li><a href="/" class="nav-link px-2 link-secondary">Home</a></li>
-                <li><a href="/recipes" class="nav-link px-2 link-dark">Recipes</a></li>
+                <li><a href="/submit-recipes" class="nav-link px-2 link-dark">Recipes</a></li>
                 <li><a href="/about" class="nav-link px-2 link-dark">About</a></li>
                 <li><a href="/contact" class="nav-link px-2 link-dark">Contact</a></li> 
          
-        
+                </ul>
+            <div class="col-md-3 text-end">
+               <form method="POST" action="/search" class="d-flex">
+                    <input type="search" name="query" class="form-control me-2" placeholder="Search recipes..." aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>        
+               
+                <a href="/login" class="btn btn-outline-primary me-2">Login</a>
+                <a href="/register" class="btn btn-primary">Register</a>
       </header>
      
      
