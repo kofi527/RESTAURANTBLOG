@@ -1,7 +1,12 @@
 body {
 
     font-family: Arial, sans-serif;
-    background-color: red;
+     background-image: url("/img/white_1.jpg");
+    background-color: black;
+    background-color: white;
     margin: 0;
     padding: 20px;
-}
+   
+
+}   
+a { color: var(--bs-dark);}
