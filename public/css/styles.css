@@ -39,3 +39,6 @@ a { color: var(--bs-dark);}
     width: 100%;
     object-fit: cover;
 }
+.category__img--large {
+    height: 330px;
+}
