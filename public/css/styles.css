@@ -10,3 +10,32 @@ body {
 
 }   
 a { color: var(--bs-dark);}
+
+/* category card */
+.category__link {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    transition: 250ms all;
+}
+
+.category__link:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.category__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 8px;
+
+}
+
+.category__img img {
+    width: 100%;
+    object-fit: cover;
+}
