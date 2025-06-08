@@ -8,3 +8,6 @@ db.on('error', console.error.bind(console, 'connection error:'));
     console.log('Connected to MongoDB');
 }
 );
+
+//Models
+require('./Category');
