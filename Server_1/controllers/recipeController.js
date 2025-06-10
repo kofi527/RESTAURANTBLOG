@@ -33,10 +33,16 @@ async function insertCategorydata(){
         name: 'Snacks',
         image: 'snacks.jpg'
       },
+      
       {
-        name: 'Dessert',
-        image: 'dessert.jpg'
+        name: 'Desserts',
+        image: 'desserts.jpg'
+      },
+      {
+        name: 'Beverages',
+        image: 'beverages.jpg'
       }
+
     ]
 
    );
