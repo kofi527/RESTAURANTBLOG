@@ -10,9 +10,21 @@ const category = require('../models/Category');
  */
 
 exports.homepage = async(req, res) => {
-  res.render('layouts/index', {    title: 'Recipe Application' });
-}
 
+
+  try { 
+  res.render('layouts/index', {    title: 'Recipe Application' });
+} catch (error) {
+  console.error('Error rendering homepage:', error);
+  res.status(500).send({message: error.message || "Error occured while rendering the homepage"});
+  }
+}
+/**how to connect dat to frontend 
+
+
+
+
+/**sample data for categories 
 async function insertCategorydata(){
   try {
    await category.insertMany(
@@ -41,7 +53,7 @@ async function insertCategorydata(){
       {
         name: 'Beverages',
         image: 'beverages.jpg'
-      }
+      },
 
     ]
 
@@ -50,5 +62,5 @@ async function insertCategorydata(){
     console.log('Error inserting categories:', error);
   }
 }
-
-insertCategorydata();
+*/ 
+insertCategorydata(); // Uncomment this line to insert sample data into the database
