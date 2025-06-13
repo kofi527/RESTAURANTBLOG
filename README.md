@@ -15,3 +15,6 @@
 
 4.  importation of packages into the main directory
    ![5  importation of packages using const require](https://github.com/user-attachments/assets/3d6b56e3-4fbc-47f3-ad2b-9564e1cbaea0)
+5. setting the designated ports for hosting
+
+   ![6  setting the port number if you want to use a hosting platform and to initalize the port 3000](https://github.com/user-attachments/assets/f2d265ad-a60e-4bf0-8037-854bf7d395bd)
