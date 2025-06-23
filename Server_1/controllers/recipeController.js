@@ -23,7 +23,7 @@ exports.homepage = async(req, res) => {
 
 
 
-  res.render('layouts/index', {    title: 'Recipe Application' });
+  res.render('layouts/index', {    title: 'Recipe Application',categories });
 } catch (error) {
   console.error('Error rendering homepage:', error);
   res.status(500).send({message: error.message || "Error occured while rendering the homepage"});
