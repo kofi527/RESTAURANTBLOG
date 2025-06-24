@@ -14,21 +14,18 @@ exports.homepage = async(req, res) => {
 
   try { 
   // Fetch categories from the database
-  const limitNumber = 6; // Limit the number of categories to fetch
+  const limitNumber = 5; // Limit the number of categories to fetch
   const categories = await category.find().limit(limitNumber).exec();
 
 
-
-
-
-
-
-  res.render('layouts/index', {    title: 'Recipe Application',categories });
+  res.render('layouts/index', {    title: 'Recipe Application', categories });
 } catch (error) {
   console.error('Error rendering homepage:', error);
   res.status(500).send({message: error.message || "Error occured while rendering the homepage"});
   }
 }
+
+
 /**how to connect data  to the  frontend 
 
 
@@ -73,4 +70,4 @@ async function insertCategorydata(){
   }
 }
 */ 
-insertCategorydata(); // Uncomment this line to insert sample data into the database
+ // Uncomment this line to insert sample data into the database
