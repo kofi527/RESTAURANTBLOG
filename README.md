@@ -23,4 +23,8 @@
 
 ![7  Making the static folder public will help use to organizd our images easility](https://github.com/user-attachments/assets/550a39c4-079f-46ff-921b-d763c11f1098)
 
+7. Reference errors are normally encountered within the commandline server area
+
+   ![19 error 1 encountered](https://github.com/user-attachments/assets/4360ccfa-c7c1-4986-b7ff-b7e674f0ba3c)
+
    
