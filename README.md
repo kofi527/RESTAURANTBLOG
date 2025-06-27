@@ -27,4 +27,6 @@
 
    ![19 error 1 encountered](https://github.com/user-attachments/assets/4360ccfa-c7c1-4986-b7ff-b7e674f0ba3c)
 
-   
+8. Initializing our router connection for testing
+    
+![9  setting up router connection for testing](https://github.com/user-attachments/assets/2ed270e8-da5d-4123-a8e7-12d7b494d0c6)
