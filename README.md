@@ -30,3 +30,6 @@
 8. Initializing our router connection for testing
     
 ![9  setting up router connection for testing](https://github.com/user-attachments/assets/2ed270e8-da5d-4123-a8e7-12d7b494d0c6)
+
+10. embeded javascript function integrated in your ide
+![10  embeded javascript funtion is integrated to insert page contenct](https://github.com/user-attachments/assets/74fbfba2-3086-4e4b-b0f6-4b246e3b2e94)
