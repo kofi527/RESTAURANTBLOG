@@ -33,3 +33,6 @@
 
 10. embeded javascript function integrated in your ide
 ![10  embeded javascript funtion is integrated to insert page contenct](https://github.com/user-attachments/assets/74fbfba2-3086-4e4b-b0f6-4b246e3b2e94)
+
+11.   settign up a title for our web application
+     ![11  setting up title for our web application](https://github.com/user-attachments/assets/84c9eb6b-d6f6-49b9-9458-7623565c368d)
