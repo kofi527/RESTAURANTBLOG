@@ -36,3 +36,6 @@
 
 11.   settign up a title for our web application
      ![11  setting up title for our web application](https://github.com/user-attachments/assets/84c9eb6b-d6f6-49b9-9458-7623565c368d)
+
+12. passing in objects to render our title on the homepage
+    ![12  we can also pass in objects here to render our tiltle on the homepage](https://github.com/user-attachments/assets/91b887de-365c-4c43-85d1-a30ab994570d)
