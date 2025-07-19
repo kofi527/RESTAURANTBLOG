@@ -39,3 +39,7 @@
 
 12. passing in objects to render our title on the homepage
     ![12  we can also pass in objects here to render our tiltle on the homepage](https://github.com/user-attachments/assets/91b887de-365c-4c43-85d1-a30ab994570d)
+
+13. outcome of the rendered homepage
+![13 this is the result](https://github.com/user-attachments/assets/f1e13056-6b0f-455c-9302-428c27c15244)
+
