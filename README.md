@@ -43,3 +43,5 @@
 13. outcome of the rendered homepage
 ![13 this is the result](https://github.com/user-attachments/assets/f1e13056-6b0f-455c-9302-428c27c15244)
 
+14. setting up a database connection in mongodb
+    ![15  setting up database access and connection for mongodb](https://github.com/user-attachments/assets/0bd36349-77d4-4a44-bcd6-b7d1706536f5)
