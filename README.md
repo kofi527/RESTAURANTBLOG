@@ -45,3 +45,7 @@
 
 14. setting up a database connection in mongodb
     ![15  setting up database access and connection for mongodb](https://github.com/user-attachments/assets/0bd36349-77d4-4a44-bcd6-b7d1706536f5)
+
+15.  creating a new model for the backend
+    ![16  creating new models for the backend](https://github.com/user-attachments/assets/db4536ad-7d22-4bae-9a11-b35e0bda6532)
+
