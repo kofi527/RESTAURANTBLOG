@@ -1,6 +1,13 @@
 # RESTAURANTBLOG
 ### FULL STACK APPLICATION USING NODE JS AND MONGO DB SETUP
 
+Project details
+Node.js and Express.js are distinct components within the JavaScript ecosystem for server-side development, serving different purposes but often used together.
+•	Node.js is a runtime environment that allows JavaScript code to be executed outside of a web browser, typically on a server.
+•	Node.js is a runtime environment that allows JavaScript code to be executed outside of a web browser, typically on a server.
+<img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/d31521b8-18b6-4f0d-9a6e-18fe4beebcbd" />
+
+
 1. Inatallation of all necessary files prior to project setup
 
    ![1  all packages have been installaed at the command line](https://github.com/user-attachments/assets/fcafb803-f8eb-47bd-9d2a-a67b67b331cc)
@@ -51,4 +58,7 @@
 
 16. succed in creating a model for the backend
     ![17  have successfully loaded first dataset to mongodb](https://github.com/user-attachments/assets/e4de235c-6586-4771-a283-4aa1b5d4f456)
+
+17.
+
 
