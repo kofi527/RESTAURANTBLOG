@@ -7,7 +7,8 @@ Node.js and Express.js are distinct components within the JavaScript ecosystem f
 •	Node.js is a runtime environment that allows JavaScript code to be executed outside of a web browser, typically on a server.
 <img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/d31521b8-18b6-4f0d-9a6e-18fe4beebcbd" />
 
-
+why we use mongo db?
+MongoDB is a popular choice for many modern applications due to its flexibility, scalability, and high performance. It's a NoSQL database, offering a schema-less document model that allows for easier handling of diverse and evolving data structures. MongoDB's horizontal scalability and robust indexing also make it suitable for applications with high traffic and complex data
 1. Inatallation of all necessary files prior to project setup
 
    ![1  all packages have been installaed at the command line](https://github.com/user-attachments/assets/fcafb803-f8eb-47bd-9d2a-a67b67b331cc)
